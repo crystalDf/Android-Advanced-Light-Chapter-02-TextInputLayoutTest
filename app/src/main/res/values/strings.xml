@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextInputLayoutTest</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">登录</string>
+</resources>
