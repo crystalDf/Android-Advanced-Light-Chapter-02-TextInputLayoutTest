@@ -41,7 +41,6 @@ public class MainActivity extends AppCompatActivity {
 
             mPassword.setErrorEnabled(true);
             mPassword.setError("密码数字过少");
-
         } else {
 
             mUsername.setErrorEnabled(false);
